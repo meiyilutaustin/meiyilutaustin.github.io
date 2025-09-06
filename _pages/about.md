@@ -41,8 +41,18 @@ Outside of research, I enjoy hiking and swimming.
 - Smart buildings and HVAC optimization  
 - Carbon-aware and sustainable computing  
 - Energy–mobility co-optimization (EV fleets, charging, autonomous vehicles)  
-- Cybersecurity and adversarial robustness in power systems  
+- Cybersecurity and adversarial robustness in power systems
+
 ---
+
+## 📰 Media Coverage
+
+- [Developing Research Uses AI to Charge Power Grid — *The Daily Texan* (2024)](https://thedailytexan.com/2024/03/05/developing-research-uses-ai-to-charge-power-grid/)  
+- [SJTU Master Student Wins Best Conference Paper Award at IEEE PES GM 2019 — *SJTU News*](https://news.sina.cn/2019-08-12/detail-ihytcitm8630225.d.html)  
+
+---
+
+
 ## 📬 Contact
 - Email: [meiyil@utexas.edu](mailto:meiyil@utexas.edu)  
 - [LinkedIn](https://www.linkedin.com/in/meiyi-li-power/) 
