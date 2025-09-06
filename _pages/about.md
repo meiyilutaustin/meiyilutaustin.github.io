@@ -29,45 +29,6 @@ Outside of research, I enjoy hiking and swimming.
 
 
 
----
-
-## 🔬 Research Interests
-
-- Machine learning-driven optimization and trustworthy AI 
-- Power dispatch and renewable integration  
-- Distributed energy resource (DER) coordination  
-- Risk-aware and uncertainty-driven optimization   
-- Smart buildings and HVAC optimization  
-- Carbon-aware and sustainable computing  
-- Energy–mobility co-optimization (EV fleets, charging, autonomous vehicles)  
-- Cybersecurity and adversarial robustness in power systems  
-
- 
- 
-
-
- 
-
----
-
-## 🏆 Awards
-  - Chevron Energy Graduate Fellowship, UT Austin, 2025
-  - First Prize, Energy Week Research Poster Competition, UT Austin, 2024
-  - Highest-Ranked University Team, ARPA-E Grid Optimization Competition, 2021
-  - Distinguished Alumni Endowed Graduate Fellowship, UT Austin, 2021
-  - Dean’s Fellowship, CMU, 2020
-  - Best of the Best Paper Award (4/1200), IEEE Power and Energy Society, 2019
-  - National Scholarship for Outstanding Academic Achievement (Top 1\%), Ministry of Education of China, 2018
-  - Outstanding Graduate of Shanghai (Top 3\%), Shanghai Ministry of Education, 2017  
-
----
-
-## 📄 Selected Publications
-See my full [Google Scholar profile](https://scholar.google.com/citations?user=vYnoysMAAAAJ).  
-
-- **M. Li**, J. Mohammadi. *Learning to optimize joint chance-constrained power dispatch problems*. **CSEE JPES**, 2025.
-- **M. Li**, J. Mohammadi. *Speeding ticket: Unveiling the energy and emission burden of artificial intelligence-accelerated distributed and decentralized power dispatch models*. **North American Power Symposium**, 2024.
-- **M. Li**, S. Kolouri, J. Mohammadi. *Learning to solve optimization problems with hard linear constraints*. **IEEE Access**, 2023.  
 
 ---
 
