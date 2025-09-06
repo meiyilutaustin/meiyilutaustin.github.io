@@ -15,7 +15,7 @@ My research focuses on **machine learning and optimization for decision-making u
 Outside of research, I enjoy hiking and swimming.  
 
 ![Hiking in the mountains](images/hiking.jpg){: .align-left style="width:45%; margin-right:2%;"}  
-![Swimming at Gregory Gym](images/swimming.jpg){: .align-right style="width:45%;"}  
+![Swimming at Gregory Gym](images/swimming.JPG){: .align-right style="width:45%;"}  
 
 ---
 
