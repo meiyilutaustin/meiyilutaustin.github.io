@@ -9,6 +9,11 @@ redirect_from:
 
 I am **Meiyi Li**, a Ph.D. candidate in Civil, Architectural, and Environmental Engineering at **The University of Texas at Austin**, advised by [Prof. Javad Mohammadi](https://javadm-utexas.github.io/Homepage/).  
 
+Before joining UT Austin, I was a Ph.D. student in Electrical and Computer Engineering at **Carnegie Mellon University**, where I worked with [Prof. Soummya Kar](https://users.ece.cmu.edu/~soummyak/) and [Prof. Javad Mohammadi](https://javadm-utexas.github.io/Homepage/) on distributed optimization for energy markets.  
+
+I earned both my **B.S. and M.S. in Electrical Engineering** from **Shanghai Jiao Tong University**, as part of the *Outstanding Engineers Honor Class*, under the supervision of [Prof. Nengling Tai](https://eei.sjtu.edu.cn/faculty-detail.php?id=61) and [Prof. Wentao Huang](https://scholar.google.com/citations?user=aAMxZz8AAAAJ&hl=en).  
+ 
+
 My research focuses on **machine learning and optimization for decision-making under uncertainty** in large-scale systems such as power grids, sensor networks, smart cities, and mobility infrastructures. I explore **multi-agent methods** and **cyber-physical infrastructures**, with an emphasis on developing **trustworthy and sustainable AI**.
 
 
