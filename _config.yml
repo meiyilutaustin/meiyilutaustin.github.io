@@ -12,7 +12,7 @@ repository               : "meiyilutaustin/meiyilutaustin.github.io"
 # Site Author (left-hand sidebar)
 author:
   # Biographic information
-  avatar           : "profile.png"              # place an image at /images/profile.png
+  avatar           : "profile.jpg"              # place an image at /images/profile.png
   name             : "Meiyi Li"
   pronouns         :                              
   bio              : "ML + optimization for decision-making under uncertainty in power grids, sensor networks, smart cities, and mobility systems; emphasis on trustworthy and sustainable AI."
