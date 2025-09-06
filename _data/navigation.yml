@@ -1,7 +1,4 @@
 main:
-  - title: "Research Interests"
-    url: /Research_Interests/
-
   - title: "Publications"
     url: /publications/
 
@@ -10,9 +7,6 @@ main:
 
   - title: "Awards"
     url: /Awards/
-
-  - title: "Media"
-    url: /media/
 
   - title: "Teaching"
     url: /teaching/
