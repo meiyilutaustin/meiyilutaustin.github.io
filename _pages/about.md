@@ -11,24 +11,40 @@ I am **Meiyi Li**, a Ph.D. candidate in Civil, Architectural, and Environmental 
 
 My research focuses on **machine learning and optimization for decision-making under uncertainty** in large-scale systems such as power grids, sensor networks, smart cities, and mobility infrastructures. I explore **multi-agent methods** and **cyber-physical infrastructures**, with an emphasis on developing **trustworthy and sustainable AI**.
 
+
+Outside of research, I enjoy hiking and swimming.  
+
+![Hiking in the mountains](images/hiking.jpg){: .align-left style="width:45%; margin-right:2%;"}  
+%![Swimming at Barton Springs](images/swimming.jpg){: .align-right style="width:45%;"}  
+
 ---
 
 ## 🔬 Research Interests
-- Machine learning for power and energy systems  
-- Distributed and multi-agent optimization  
-- Neural network approximators for Optimal Power Flow (OPF)  
-- Cyber-physical infrastructures and smart cities  
-- Sustainable and carbon-aware AI  
+
+- **Power and Energy Systems**: Machine learning and optimization for power dispatch, renewable integration, and distributed energy resource coordination.  
+- **Business & Operations Research**: Risk-aware optimization and decision-making under uncertainty for sustainable infrastructure and energy markets.  
+- **Information Systems & Data Science**: Large-scale data-driven modeling, linguistic data–assisted optimization, and trustworthy AI for cyber-physical networks.  
+- **Mechanical & Industrial Engineering**: Control and stability of renewable energy systems, smart buildings, and HVAC optimization.  
+- **Computer Science & AI**: Neural approximators for optimization, reinforcement learning for multi-agent coordination, and carbon-aware computing strategies.  
+- **Policy & Sustainability**: Translating technical advances into practical frameworks that align with carbon policies, environmental targets, and regulatory markets.
+- **Energy–Mobility Co-Optimization**: Integrated optimization of power grids and electrified transportation systems (EV fleets, charging stations, shared autonomous vehicles) for efficiency and sustainability. 
+- **Cybersecurity for Critical Infrastructure**: Impact of adversarial and data-poisoning attacks on power system feasibility, reliability, and market stability.  
+ 
+
+
+ 
 
 ---
 
 ## 🏆 Awards
-- Chevron Energy Graduate Fellowship, UT Austin, 2025  
-- First Prize, UT Austin Energy Week Poster Competition, 2024  
-- Highest-Ranked University Team, ARPA-E Grid Optimization Competition, 2021  
-- Distinguished Alumni Endowed Graduate Fellowship, UT Austin, 2021  
-- Dean’s Fellowship, Carnegie Mellon University, 2020  
-- Best of the Best Paper Award, IEEE PES GM (4/1200 papers), 2019  
+  - Chevron Energy Graduate Fellowship, UT Austin, 2025
+  - First Prize, Energy Week Research Poster Competition, UT Austin, 2024
+  - Highest-Ranked University Team, ARPA-E Grid Optimization Competition, 2021
+  - Distinguished Alumni Endowed Graduate Fellowship, UT Austin, 2021
+  - Dean’s Fellowship, CMU, 2020
+  - Best of the Best Paper Award (4/1200), IEEE Power and Energy Society, 2019
+  - National Scholarship for Outstanding Academic Achievement (Top 1\%), Ministry of Education of China, 2018
+  - Outstanding Graduate of Shanghai (Top 3\%), Shanghai Ministry of Education, 2017  
 
 ---
 
@@ -36,19 +52,13 @@ My research focuses on **machine learning and optimization for decision-making u
 See my full [Google Scholar profile](https://scholar.google.com/citations?user=vYnoysMAAAAJ).  
 
 - **M. Li**, J. Mohammadi. *Learning to optimize joint chance-constrained power dispatch problems*. **CSEE JPES**, 2025.  
-- J. Robbennolt, **M. Li**, J. Mohammadi, S. D. Boyles. *Balancing passenger transport and power distribution: A distributed dispatch policy for shared autonomous electric vehicles*. **IEEE Trans. Industry Applications**, 2025.  
 - **M. Li**, S. Kolouri, J. Mohammadi. *Learning to solve optimization problems with hard linear constraints*. **IEEE Access**, 2023.  
-- **M. Li**, W. Huang, N. Tai, L. Yang, D. Duan, Z. Ma. *A dual-adaptivity inertia control strategy for virtual synchronous generators*. **IEEE Trans. Power Systems**, 2019.  
-
+- **M. Li**, J. Mohammadi. *Speeding ticket: Unveiling the energy and emission burden of artificial intelligence-accelerated distributed and decentralized power dispatch models*. **North American Power Symposium**, 2024.
 ---
 
-## 🎤 Talks & Presentations
-- *Constraint-aware learning for multi-agent optimization of market-participating VPPs.* IEEE PES GM, Austin, TX, 2025  
-- *AI’s carbon diet: Can we make machine learning clean and green?* UT Energy Week, Austin, TX, 2025  
-- *Towards reliable neural optimizers: A permutation equivariant neural approximation.* DDDAS Conference, 2024  
 
----
 
 ## 📬 Contact
 - Email: [meiyil@utexas.edu](mailto:meiyil@utexas.edu)  
-- [LinkedIn](https://www.linkedin.com/in/meiyi-li-power/) | [Google Scholar](https://scholar.google.com/citations?user=vYnoysMAAAAJ)  
+- [LinkedIn](https://www.linkedin.com/in/meiyi-li-power/) 
+- [Google Scholar](https://scholar.google.com/citations?user=vYnoysMAAAAJ)  
