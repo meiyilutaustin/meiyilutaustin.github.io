@@ -32,8 +32,17 @@ Outside of research, I enjoy hiking and swimming.
 
 ---
 
+## 🔬 Research Interests
 
-
+- Machine learning-driven optimization and trustworthy AI 
+- Power dispatch and renewable integration  
+- Distributed energy resource (DER) coordination  
+- Risk-aware and uncertainty-driven optimization   
+- Smart buildings and HVAC optimization  
+- Carbon-aware and sustainable computing  
+- Energy–mobility co-optimization (EV fleets, charging, autonomous vehicles)  
+- Cybersecurity and adversarial robustness in power systems  
+---
 ## 📬 Contact
 - Email: [meiyil@utexas.edu](mailto:meiyil@utexas.edu)  
 - [LinkedIn](https://www.linkedin.com/in/meiyi-li-power/) 
