@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am **Meiyi Li**, a Ph.D. candidate in Civil, Architectural, and Environmental Engineering at **The University of Texas at Austin**, advised by [Prof. Javad Mohammadi](https://javadm-utexas.github.io/Homepage/).  
+
 My research focuses on **machine learning and optimization for decision-making under uncertainty** in large-scale systems such as power grids, sensor networks, smart cities, and mobility infrastructures. I explore **multi-agent methods** and **cyber-physical infrastructures**, with an emphasis on developing **trustworthy and sustainable AI**.  
 
 I am honored to have collaborated with [Prof. Soheil Kolouri](https://engineering.vanderbilt.edu/bio/?pid=soheil-kolouri), [Prof. Kyri Baker](https://www.colorado.edu/ceae/kyri-baker), and [Prof. Constance Crozier](https://constancecrozier.github.io/) on projects including trustworthy AI, distributed optimization, and the ARPA-E Grid Optimization Competition.  
