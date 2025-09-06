@@ -15,20 +15,20 @@ My research focuses on **machine learning and optimization for decision-making u
 Outside of research, I enjoy hiking and swimming.  
 
 ![Hiking in the mountains](images/hiking.jpg){: .align-left style="width:45%; margin-right:2%;"}  
-%![Swimming at Barton Springs](images/swimming.jpg){: .align-right style="width:45%;"}  
+![Swimming at Gregory Gym](images/swimming.jpg){: .align-right style="width:45%;"}  
 
 ---
 
 ## 🔬 Research Interests
 
-- **Power and Energy Systems**: Machine learning and optimization for power dispatch, renewable integration, and distributed energy resource coordination.  
-- **Business & Operations Research**: Risk-aware optimization and decision-making under uncertainty for sustainable infrastructure and energy markets.  
-- **Information Systems & Data Science**: Large-scale data-driven modeling, linguistic data–assisted optimization, and trustworthy AI for cyber-physical networks.  
-- **Mechanical & Industrial Engineering**: Control and stability of renewable energy systems, smart buildings, and HVAC optimization.  
-- **Computer Science & AI**: Neural approximators for optimization, reinforcement learning for multi-agent coordination, and carbon-aware computing strategies.  
-- **Policy & Sustainability**: Translating technical advances into practical frameworks that align with carbon policies, environmental targets, and regulatory markets.
-- **Energy–Mobility Co-Optimization**: Integrated optimization of power grids and electrified transportation systems (EV fleets, charging stations, shared autonomous vehicles) for efficiency and sustainability. 
-- **Cybersecurity for Critical Infrastructure**: Impact of adversarial and data-poisoning attacks on power system feasibility, reliability, and market stability.  
+- Power and Energy Systems: Machine learning and optimization for power dispatch, renewable integration, and distributed energy resource coordination.  
+- Business & Operations Research: Risk-aware optimization and decision-making under uncertainty for sustainable infrastructure and energy markets.  
+- Information Systems & Data Science: Large-scale data-driven modeling, linguistic data–assisted optimization, and trustworthy AI for cyber-physical networks.  
+- Mechanical & Industrial Engineering: Control and stability of renewable energy systems, smart buildings, and HVAC optimization.  
+- Computer Science & AI: Neural approximators for optimization, reinforcement learning for multi-agent coordination, and carbon-aware computing strategies.  
+- Policy & Sustainability: Translating technical advances into practical frameworks that align with carbon policies, environmental targets, and regulatory markets.
+- Energy & Mobility Co-Optimization: Integrated optimization of power grids and electrified transportation systems (EV fleets, charging stations, shared autonomous vehicles) for efficiency and sustainability. 
+- Cybersecurity for Critical Infrastructure: Impact of adversarial and data-poisoning attacks on power system feasibility, reliability, and market stability.  
  
 
 
@@ -51,9 +51,10 @@ Outside of research, I enjoy hiking and swimming.
 ## 📄 Selected Publications
 See my full [Google Scholar profile](https://scholar.google.com/citations?user=vYnoysMAAAAJ).  
 
-- **M. Li**, J. Mohammadi. *Learning to optimize joint chance-constrained power dispatch problems*. **CSEE JPES**, 2025.  
-- **M. Li**, S. Kolouri, J. Mohammadi. *Learning to solve optimization problems with hard linear constraints*. **IEEE Access**, 2023.  
+- **M. Li**, J. Mohammadi. *Learning to optimize joint chance-constrained power dispatch problems*. **CSEE JPES**, 2025.
 - **M. Li**, J. Mohammadi. *Speeding ticket: Unveiling the energy and emission burden of artificial intelligence-accelerated distributed and decentralized power dispatch models*. **North American Power Symposium**, 2024.
+- **M. Li**, S. Kolouri, J. Mohammadi. *Learning to solve optimization problems with hard linear constraints*. **IEEE Access**, 2023.  
+
 ---
 
 
