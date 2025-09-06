@@ -19,21 +19,23 @@ My research focuses on **machine learning and optimization for decision-making u
 
 Outside of research, I enjoy hiking and swimming.  
 
-![Hiking in the mountains](images/hiking.jpg){: .align-left style="width:45%; margin-right:2%;"}  
-![Swimming at Gregory Gym](images/swimming.JPG){: .align-right style="width:45%;"}  
+![Hiking and swimming](images/hiking.jpg){: .align-left style="width:95%; margin-right:2%;"}  
+ 
 
 ---
 
 ## 🔬 Research Interests
 
-- Power and Energy Systems: Machine learning and optimization for power dispatch, renewable integration, and distributed energy resource coordination.  
-- Business & Operations Research: Risk-aware optimization and decision-making under uncertainty for sustainable infrastructure and energy markets.  
-- Information Systems & Data Science: Large-scale data-driven modeling, linguistic data–assisted optimization, and trustworthy AI for cyber-physical networks.  
-- Mechanical & Industrial Engineering: Control and stability of renewable energy systems, smart buildings, and HVAC optimization.  
-- Computer Science & AI: Neural approximators for optimization, reinforcement learning for multi-agent coordination, and carbon-aware computing strategies.  
-- Policy & Sustainability: Translating technical advances into practical frameworks that align with carbon policies, environmental targets, and regulatory markets.
-- Energy & Mobility Co-Optimization: Integrated optimization of power grids and electrified transportation systems (EV fleets, charging stations, shared autonomous vehicles) for efficiency and sustainability. 
-- Cybersecurity for Critical Infrastructure: Impact of adversarial and data-poisoning attacks on power system feasibility, reliability, and market stability.  
+- Machine learning-driven optimization and trustworthy AI 
+- Power dispatch and renewable integration  
+- Distributed energy resource (DER) coordination  
+- Risk-aware and uncertainty-driven optimization   
+- Smart buildings and HVAC optimization  
+- Carbon-aware and sustainable computing  
+- Energy–mobility co-optimization (EV fleets, charging, autonomous vehicles)  
+- Cybersecurity and adversarial robustness in power systems  
+
+ 
  
 
 
