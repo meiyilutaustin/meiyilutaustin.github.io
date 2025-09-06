@@ -1,10 +1,8 @@
 ---
-layout: archive
 title: "Awards"
 permalink: /Awards/
 author_profile: true
 ---
-
 
 
   - Chevron Energy Graduate Fellowship, UT Austin, 2025
