@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 
+  - MIT EECS Rising Star, 2025
   - Chevron Energy Graduate Fellowship, UT Austin, 2025
   - First Prize, Energy Week Research Poster Competition, UT Austin, 2024
   - Highest-Ranked University Team, ARPA-E Grid Optimization Competition, 2021
