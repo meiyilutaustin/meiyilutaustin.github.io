@@ -48,7 +48,8 @@ Outside of research, I enjoy hiking and swimming.
 ## 📰 Media Coverage
 
 - [Developing Research Uses AI to Charge Power Grid — *The Daily Texan* (2024)](https://thedailytexan.com/2024/03/05/developing-research-uses-ai-to-charge-power-grid/)  
-- [SJTU Master Student Wins Best Conference Paper Award at IEEE PES GM 2019 — *SJTU News*](https://news.sina.cn/2019-08-12/detail-ihytcitm8630225.d.html)  
+- [SJTU Master Student Wins Best Conference Paper Award at IEEE PES GM 2019 — *SJTU News*](https://news.sina.cn/2019-08-12/detail-ihytcitm8630225.d.html)
+- [AI Scenarios 2025 Initiative — *MIT Technology Review* & *Potomac AI* (September 2025). Invited expert in scenario discussion on AI data centers and energy policy; published via *Siliconsciousness podcast*](https://podcasts.apple.com/us/podcast/dsrs-siliconsciousness/id1744179436)
 
 ---
 
