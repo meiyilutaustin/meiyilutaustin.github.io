@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Meiyi Li**, a Ph.D. candidate in Civil, Architectural, and Environmental Engineering at **The University of Texas at Austin**, advised by [Prof. Javad Mohammadi](https://javadm-utexas.github.io/Homepage/).  
+I am **Meiyi Li**, a Ph.D. candidate in Civil, Architectural, and Environmental Engineering at **The University of Texas at Austin**, advised by [Prof. Javad Mohammadi](https://javadm-utexas.github.io/Homepage/). I’m on the job market and excited to find my next opportunity!
 
 My research focuses on **machine learning and optimization for decision-making under uncertainty** in large-scale systems such as power grids, sensor networks, smart cities, and mobility infrastructures. I explore **multi-agent methods** and **cyber-physical infrastructures**, with an emphasis on developing **trustworthy and sustainable AI**.  
 
