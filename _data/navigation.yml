@@ -1,4 +1,10 @@
 main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Join Us"
+    url: /join/
+
   - title: "Publications"
     url: /publications/
 

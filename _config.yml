@@ -1,10 +1,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # "default" or "air"
-title                    : "Meiyi Li / UT Austin"
+title                    : "Meiyi Li / LSU"
 title_separator          : "-"
 name                     : &name "Meiyi Li"
-description              : &description "Ph.D. candidate at UT Austin. Research: machine learning + optimization for decision-making in power systems and large-scale cyber-physical infrastructures; trustworthy & sustainable AI."
+description              : &description "Incoming tenure-track Assistant Professor in the Division of Electrical Engineering at Louisiana State University. Research: AI, machine learning, optimization, LLM agents, and trustworthy decision-making for cyber-physical infrastructure."
 url                      : https://meiyilutaustin.github.io
 baseurl                  : "" # user pages should be empty
 repository               : "meiyilutaustin/meiyilutaustin.github.io"
@@ -15,9 +15,9 @@ author:
   avatar           : "profile.jpg"              # place an image at /images/profile.png
   name             : "Meiyi Li"
   pronouns         :                              
-  bio              : "ML + optimization for decision-making under uncertainty in power grids, sensor networks, smart cities, and mobility systems; emphasis on trustworthy and sustainable AI."
-  location         : "Austin, TX"
-  employer         : "The University of Texas at Austin"
+  bio              : "Incoming Assistant Professor at LSU. AI, machine learning, optimization, LLM agents, and trustworthy decision-making for cyber-physical infrastructure."
+  location         : "Baton Rouge, LA"
+  employer         : "Louisiana State University"
   uri              :
   email            : "meiyil@utexas.edu"
 
