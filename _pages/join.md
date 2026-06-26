@@ -4,7 +4,7 @@ title: "Prospective Ph.D. Students"
 author_profile: true
 ---
 
-I am recruiting **Ph.D. students** to join my research group in the **Division of Electrical & Computer Engineering at Louisiana State University (LSU)** starting in **Spring 2027** or **Fall 2027**.
+I am recruiting fully-funded **Ph.D. students** to join my research group in the **Division of Electrical & Computer Engineering at Louisiana State University (LSU)** starting in **Spring 2027** or **Fall 2027**.
 
 My group will work on **AI, machine learning, optimization, LLM agents, and trustworthy decision-making** for cyber-physical infrastructure, with applications in energy systems, smart cities, mobility, and sustainable intelligent systems.
 
