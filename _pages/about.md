@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Meiyi Li**. Starting in **Fall 2026**, I will join the **Division of Electrical Engineering at Louisiana State University (LSU)** as a tenure-track **Assistant Professor**.
+I am **Meiyi Li**. Starting in **Fall 2026**, I will join the **Division of Electrical & Computer Engineering at Louisiana State University (LSU)** as a tenure-track **Assistant Professor**.
 
 I am currently a Ph.D. candidate in Civil, Architectural, and Environmental Engineering at **The University of Texas at Austin**, advised by [Prof. Javad Mohammadi](https://javadm-utexas.github.io/Homepage/).
 
