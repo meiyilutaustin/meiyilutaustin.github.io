@@ -44,6 +44,8 @@ Students should also follow the official LSU graduate application process and de
 
 [Submit the Prospective Ph.D. Student Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSfKoIAwCtnWIhm6RCG0-3-F9GZhlIy8o2-YmUcjFE0AY-fYQA/viewform?usp=publish-editor){: .btn .btn--primary}
 
-If you are unable to access the Google Form, especially from mainland China, please use the alternative Wenjuanxing form here: [Wenjuanxing link](https://v.wjx.cn/vm/OfkWtnb.aspx){: .btn .btn--primary}
+If you are unable to access the Google Form, especially from mainland China, please use the alternative Wenjuanxing form below.
+
+[Submit the Alternative Wenjuanxing Interest Form](https://v.wjx.cn/vm/OfkWtnb.aspx){: .btn .btn--primary}
 
 
