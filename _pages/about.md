@@ -11,13 +11,13 @@ I am **Meiyi Li**, a tenure-track **Assistant Professor** in the **Division of E
 
 I received my Ph.D. in Civil, Architectural, and Environmental Engineering from **The University of Texas at Austin** in August 2026, advised by [Prof. Javad Mohammadi](https://javadm-utexas.github.io/Homepage/).
 
-I am recruiting **Ph.D. students** to join my group in **Spring 2027** or **Fall 2027**. Prospective students interested in power and energy systems, AI, machine learning, optimization, LLM agents, and intelligent cyber-physical infrastructure are encouraged to read the recruiting page and submit the online interest form.
+I am recruiting **Ph.D. students** to join my group in **Spring 2027** or **Fall 2027**. Prospective students interested in power and energy systems, agentic AI, machine learning, optimization, and intelligent cyber-physical infrastructure are encouraged to read the recruiting page and submit the online interest form.
 
 [Prospective Ph.D. Students: Join Us](/join/)
 
-My research develops **AI, machine learning, and optimization methods for decision-making under uncertainty** in power and energy systems and other complex cyber-physical infrastructure. I am especially interested in building intelligent, trustworthy, and sustainable decision-making systems that can operate reliably in real-world power grids, energy systems, and infrastructure networks.
+My research develops **agentic AI, machine learning, and optimization methods for decision-making under uncertainty** in power and energy systems and other complex cyber-physical infrastructure. I am especially interested in building intelligent, trustworthy, and sustainable decision-making systems that can operate reliably in real-world power grids, energy systems, and infrastructure networks.
 
-I am honored to have collaborated with [Prof. Soheil Kolouri](https://engineering.vanderbilt.edu/bio/?pid=soheil-kolouri), [Prof. Kyri Baker](https://www.colorado.edu/ceae/kyri-baker), and [Prof. Constance Crozier](https://constancecrozier.github.io/) on projects including trustworthy AI, distributed optimization, and the ARPA-E Grid Optimization Competition.
+I am honored to have collaborated with [Prof. Soheil Kolouri](https://engineering.vanderbilt.edu/bio/?pid=soheil-kolouri), [Prof. Kyri Baker](https://www.colorado.edu/ceae/kyri-baker), and [Prof. Constance Crozier](https://constancecrozier.github.io/) on projects including trustworthy agentic AI, distributed optimization, and the ARPA-E Grid Optimization Competition.
 
 Before joining UT Austin, I was a Ph.D. student in Electrical and Computer Engineering at **Carnegie Mellon University**, where I worked with [Prof. Soummya Kar](https://users.ece.cmu.edu/~soummyak/) and [Prof. Javad Mohammadi](https://javadm-utexas.github.io/Homepage/) on distributed optimization for energy markets.
 
@@ -48,9 +48,9 @@ Outside of research, I enjoy hiking and swimming.
 Current research directions include:
 
 - Optimization and learning for power, energy, mobility, smart city systems, and data centers
-- AI and machine learning for decision-making under uncertainty
+- Agentic AI and machine learning for decision-making under uncertainty
 - LLM agents and multi-agent systems for cyber-physical infrastructure
-- Trustworthy, robust, and risk-aware AI
+- Trustworthy, robust, and risk-aware agentic AI
 - Sustainable and carbon-aware intelligent systems
 
 ---
