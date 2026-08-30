@@ -38,6 +38,8 @@ Strong applicants may have backgrounds in electrical engineering, computer scien
 
 ## How To Express Interest
 
+**Please note:** due to the large volume of emails I receive, I am unable to reply to every inquiry individually. If you are interested in joining my group, please submit the interest form below — I review all submissions and will reach out directly to students whose backgrounds are a good fit.
+
 Prospective students should complete the Google Form linked below if they are interested in joining my group as a Ph.D. student. The form will ask for links to application materials rather than file uploads, which keeps the process lightweight and easier to review.
 
 Students should also follow the official LSU graduate application process and deadlines.

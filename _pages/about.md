@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am **Meiyi Li**. Starting in **Fall 2026**, I will join the **Division of Electrical & Computer Engineering at Louisiana State University (LSU)** as a tenure-track **Assistant Professor**.
+I am **Meiyi Li**, a tenure-track **Assistant Professor** in the **Division of Electrical & Computer Engineering at Louisiana State University (LSU)**.
 
-I am currently a Ph.D. candidate in Civil, Architectural, and Environmental Engineering at **The University of Texas at Austin**, advised by [Prof. Javad Mohammadi](https://javadm-utexas.github.io/Homepage/).
+I received my Ph.D. in Civil, Architectural, and Environmental Engineering from **The University of Texas at Austin** in August 2026, advised by [Prof. Javad Mohammadi](https://javadm-utexas.github.io/Homepage/).
 
 I am recruiting **Ph.D. students** to join my group in **Spring 2027** or **Fall 2027**. Prospective students interested in power and energy systems, AI, machine learning, optimization, LLM agents, and intelligent cyber-physical infrastructure are encouraged to read the recruiting page and submit the online interest form.
 
@@ -31,7 +31,7 @@ Outside of research, I enjoy hiking and swimming.
 
 ## Education
 
-- **Ph.D. Candidate**, Civil Engineering, The University of Texas at Austin, Jan 2022-Aug 2026 (expected)  
+- **Ph.D.**, Civil Engineering, The University of Texas at Austin, Jan 2022-Aug 2026  
   Advisor: [Prof. Javad Mohammadi](https://javadm-utexas.github.io/Homepage/)
 
 - **Ph.D. Student**, Electrical and Computer Engineering, Carnegie Mellon University, Aug 2020-Dec 2021  
@@ -65,6 +65,6 @@ Current research directions include:
 
 
 ## Contact
-- Email: [meiyil@utexas.edu](mailto:meiyil@utexas.edu)  
+- Email: [mli30@lsu.edu](mailto:mli30@lsu.edu)  
 - [LinkedIn](https://www.linkedin.com/in/meiyi-li-power/) 
 - [Google Scholar](https://scholar.google.com/citations?user=vYnoysMAAAAJ)  
