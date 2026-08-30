@@ -4,7 +4,7 @@ site_theme               : "default" # "default" or "air"
 title                    : "Meiyi Li / LSU"
 title_separator          : "-"
 name                     : &name "Meiyi Li"
-description              : &description "Incoming tenure-track Assistant Professor in the Division of Electrical Engineering at Louisiana State University. Research: AI, machine learning, optimization, LLM agents, and trustworthy decision-making for cyber-physical infrastructure."
+description              : &description "Tenure-track Assistant Professor in the Division of Electrical & Computer Engineering at Louisiana State University. Research: agentic AI, machine learning, optimization, and trustworthy decision-making for cyber-physical infrastructure."
 url                      : https://meiyilutaustin.github.io
 baseurl                  : "" # user pages should be empty
 repository               : "meiyilutaustin/meiyilutaustin.github.io"
@@ -15,7 +15,7 @@ author:
   avatar           : "profile.jpg"              # place an image at /images/profile.png
   name             : "Meiyi Li"
   pronouns         :                              
-  bio              : "Incoming Assistant Professor at LSU. AI, machine learning, optimization, LLM agents, and trustworthy decision-making for cyber-physical infrastructure."
+  bio              : "Assistant Professor at LSU. Agentic AI, machine learning, optimization, and trustworthy decision-making for cyber-physical infrastructure."
   location         : "Baton Rouge, LA"
   employer         : "Louisiana State University"
   uri              :
