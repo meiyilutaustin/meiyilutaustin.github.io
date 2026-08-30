@@ -1,16 +1,18 @@
 ---
 permalink: /join/
-title: "Prospective Ph.D. Students"
+title: "OPAL Lab"
 author_profile: true
 ---
 
-I am recruiting fully-funded **Ph.D. students** to join my research group in the **Division of Electrical & Computer Engineering at Louisiana State University (LSU)** starting in **Spring 2027** or **Fall 2027**.
+![OPAL Lab — Optimization · Power Systems · Agentic AI · Learning](/images/opal-lab-horizontal.svg){: style="max-width:600px; width:100%; margin-bottom:24px;"}
 
-My group will work on **agentic AI, machine learning, optimization, and trustworthy decision-making** for cyber-physical infrastructure, with applications in energy systems, smart cities, mobility, and sustainable intelligent systems.
+I am recruiting fully-funded **Ph.D. students** to join the **OPAL Lab** (**O**ptimization · **P**ower Systems · **A**gentic AI · **L**earning) in the **Division of Electrical & Computer Engineering at Louisiana State University (LSU)** starting in **Spring 2027** or **Fall 2027**.
 
-## About The Research Group
+The lab will work on **agentic AI, machine learning, optimization, and trustworthy decision-making** for cyber-physical infrastructure, with applications in energy systems, smart cities, mobility, and sustainable intelligent systems.
 
-The group will develop intelligent decision-making methods for complex real-world systems. Research directions include:
+## About the OPAL Lab
+
+The OPAL Lab will develop intelligent decision-making methods for complex real-world systems. Research directions include:
 
 - Agentic AI and machine learning for decision-making under uncertainty
 - Large language models and AI agents for planning, reasoning, and decision support

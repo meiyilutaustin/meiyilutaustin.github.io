@@ -11,9 +11,11 @@ I am **Meiyi Li**, a tenure-track **Assistant Professor** in the **Division of E
 
 I received my Ph.D. in Civil, Architectural, and Environmental Engineering from **The University of Texas at Austin** in August 2026, advised by [Prof. Javad Mohammadi](https://javadm-utexas.github.io/Homepage/).
 
-I am recruiting **Ph.D. students** to join my group in **Spring 2027** or **Fall 2027**. Prospective students interested in power and energy systems, agentic AI, machine learning, optimization, and intelligent cyber-physical infrastructure are encouraged to read the recruiting page and submit the online interest form.
+I am recruiting **Ph.D. students** to join my group, the **OPAL Lab** (Optimization · Power Systems · Agentic AI · Learning), in **Spring 2027** or **Fall 2027**. Prospective students interested in power and energy systems, agentic AI, machine learning, optimization, and intelligent cyber-physical infrastructure are encouraged to read the recruiting page and submit the online interest form.
 
-[Prospective Ph.D. Students: Join Us](/join/)
+[![OPAL Lab](/images/opal-lab-compact.svg){: style="max-width:260px; margin:6px 0;"}](/join/)
+
+[Join the OPAL Lab](/join/)
 
 My research develops **agentic AI, machine learning, and optimization methods for decision-making under uncertainty** in power and energy systems and other complex cyber-physical infrastructure. I am especially interested in building intelligent, trustworthy, and sustainable decision-making systems that can operate reliably in real-world power grids, energy systems, and infrastructure networks.
 
